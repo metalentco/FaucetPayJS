@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HanzHaxors/FaucetPayJS.git"
+    "url": "git+https://github.com/metalentco/FaucetPayJS.git"
   },
   "keywords": [
     "faucetpay",
@@ -19,12 +19,12 @@
     "endpoint",
     "bitcoin"
   ],
-  "author": "HanzHaxors",
+  "author": "metalentco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HanzHaxors/FaucetPayJS/issues"
+    "url": "https://github.com/metalentco/FaucetPayJS/issues"
   },
-  "homepage": "https://github.com/HanzHaxors/FaucetPayJS#readme",
+  "homepage": "https://github.com/metalentco/FaucetPayJS#readme",
   "dependencies": {
     "axios": "^0.21.1"
   }

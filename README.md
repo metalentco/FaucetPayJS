@@ -75,4 +75,4 @@ Thank you for visiting this page! Appreciate my works by Following, being a Star
 <br/>
 BTC, ETH, LTC, BCH, DASH, DGB, FEY via FaucetPay (username: `Hanz`)<br/>
 DOGE	: DFazapEWQNFBDMRN4Soo4iGDRgdqKqUSfR<br/>
-WAVES	: use alias (`hanz`, `hanzhaxors`, `haxors`)<br/>
+WAVES	: use alias (`hanz`, `metalentco`, `haxors`)<br/>
